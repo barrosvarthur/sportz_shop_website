@@ -11,10 +11,10 @@ Projeto de um website responsivo para venda de camisas de futebol, desenvolvido 
 ## 📸 Preview
 
 
-> <img width="1277" height="1024" alt="Captura de tela de 2026-04-07 08-34-30" src="https://github.com/user-attachments/assets/80610762-4c86-48ac-bc34-bc42969424ed" />
-
-
+> 
 ```
+<img width="1365" height="643" alt="Captura de tela de 2026-04-07 10-30-50" src="https://github.com/user-attachments/assets/80d5ff8a-e060-4e75-a17d-ed4372158106" />
+
 /assets/images/preview.png
 ```
 
